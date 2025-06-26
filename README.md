@@ -60,14 +60,3 @@ npm install
 npm run dev
 
 ---
-
-### 📦 To Complete It:
-1. **Create a folder named `screenshots/`** in your project root.
-2. **Add 3 screenshots**:
-   - `desktop-navbar.png`
-   - `mobile-navbar-collapsed.png`
-   - `mobile-navbar-expanded.png`
-
-If you don’t have the images yet and want **sample screenshots**, I can help generate mockups or show you how to capture them cleanly.
-
-Would you like that?
