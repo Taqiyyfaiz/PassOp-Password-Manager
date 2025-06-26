@@ -1,13 +1,70 @@
-This README provides an overview of a React + Vite project template. It describes the minimal setup required to get React working with Vite, including Hot Module Replacement (HMR) and basic ESLint rules. The document highlights two official Vite plugins for React—one using Babel and the other using SWC for Fast Refresh. Additionally, it recommends expanding the ESLint configuration for production applications, especially by integrating TypeScript and type-aware lint rules, and provides references for further integration details.
-# React + Vite
+# 🚀 PassOp - Responsive Navbar UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, responsive, and clean Navbar component built with **React** and **Tailwind CSS** for the `PassOp` project – Your Own Password Manager. Designed with accessibility and responsiveness in mind, featuring dark mode, GitHub integration, and a mobile-friendly hamburger menu.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- ✅ **Responsive**: Mobile-first design with hamburger menu
+- 🎨 **Modern UI**: Clean layout using Tailwind CSS
+- 🌙 **Dark Mode**: Built-in dark theme
+- 🔗 **GitHub Integration**: Quick link to developer profile
+- ♿ **Accessible**: Keyboard and screen-reader friendly
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Output Screenshots
+
+### 💻 Desktop View
+
+![Desktop View](./screenshots/desktop-navbar.png)
+
+---
+
+### 📱 Mobile View (Collapsed)
+
+![Mobile Collapsed](./screenshots/mobile-navbar-collapsed.png)
+
+---
+
+### 📱 Mobile View (Expanded)
+
+![Mobile Expanded](./screenshots/mobile-navbar-expanded.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Lucide React Icons](https://lucide.dev/) (for hamburger menu)
+
+---
+
+## 📁 Project Structure
+
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the Repo**
+   ```bash
+   git clone https://github.com/your-username/passop-navbar.git
+   cd passop-navbar
+npm install
+npm run dev
+
+---
+
+### 📦 To Complete It:
+1. **Create a folder named `screenshots/`** in your project root.
+2. **Add 3 screenshots**:
+   - `desktop-navbar.png`
+   - `mobile-navbar-collapsed.png`
+   - `mobile-navbar-expanded.png`
+
+If you don’t have the images yet and want **sample screenshots**, I can help generate mockups or show you how to capture them cleanly.
+
+Would you like that?
