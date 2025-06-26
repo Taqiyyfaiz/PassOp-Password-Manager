@@ -18,7 +18,10 @@
 
 ### 💻 Desktop View
 
-![Desktop View](![image](https://github.com/user-attachments/assets/414c8435-c1af-4651-8d1f-87e21adad27e))
+![Desktop View](![image](
+![image](https://github.com/user-attachments/assets/1e31d76a-ec7d-4864-9ead-8eb413007d83)
+
+)
 
 ---
 
