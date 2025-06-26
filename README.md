@@ -1,6 +1,6 @@
-# 🚀 PassOp - Responsive Navbar UI
+# 🚀 PassOp - 
 
-> A modern, responsive, and clean Navbar component built with **React** and **Tailwind CSS** for the `PassOp` project – Your Own Password Manager. Designed with accessibility and responsiveness in mind, featuring dark mode, GitHub integration, and a mobile-friendly hamburger menu.
+> A modern, responsive, and clean Website built with **React** and **Tailwind CSS** for the `PassOp` project – Your Own Password Manager. Designed with accessibility and responsiveness in mind, featuring dark mode, GitHub integration, and a mobile-friendly hamburger menu.
 
 ---
 
