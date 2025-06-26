@@ -1,3 +1,6 @@
+<!--
+This README provides an overview of a React + Vite project template. It describes the minimal setup required to get React working with Vite, including Hot Module Replacement (HMR) and basic ESLint rules. The document highlights two official Vite plugins for React—one using Babel and the other using SWC for Fast Refresh. Additionally, it recommends expanding the ESLint configuration for production applications, especially by integrating TypeScript and type-aware lint rules, and provides references for further integration details.
+-->
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
